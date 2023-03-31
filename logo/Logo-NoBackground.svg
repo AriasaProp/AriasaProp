@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 1240.0 1240.0"
+	enable-background="new 0 0 1240.0 1240.0"
+	xml:space="preserve">
+<defs>
+	<sweepGradient id="fillGrad30" cx="32.239%" cy="59.168%">
+   		<stop offset="0.000%" style="stop-color:rgb(49,188,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(16,0,160);stop-opacity:1.000" />
+	</sweepGradient>
+
+	<sweepGradient id="stkGrad30" cx="33.026%" cy="59.005%">
+   		<stop offset="0.000%" style="stop-color:rgb(254,254,254);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+	</sweepGradient>
+
+	<style type="text/css">
+		@font-face {
+			font-family: 'aclonica'; 
+			src: url('./aclonica.ttf');
+		}
+	</style>
+</defs>
+	<path
+		fill="#F9F9F9"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M635.01,765.19L989.07,765.19L939.28,920.09L584.70,920.09z"/>
+	<path
+		fill="#0057FF"
+		stroke="#000000"
+		fill-opacity="0.659"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M635.01,920.09L989.07,920.09L939.28,765.19L584.70,765.19z"/>
+	<path
+		transform = "rotate(-0.00 712.10 589.32)"
+		fill="#000000"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="57.712555"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M1090.36,646.78L487.93,646.02L558.67,378.94L572.87,378.94L650.05,646.32L766.78,646.23L653.68,299.85L494.47,299.85L309.51,878.78L427.81,878.78L472.66,725.29L1114.70,724.34z"/>
+	<path
+		transform = "rotate(-0.00 643.83 616.63)"
+		fill="url(#fillGrad30)"
+		stroke="url(#stkGrad30)"
+		fill-opacity="1.0"
+		stroke-opacity="1.0"
+		fill-rule="nonzero"
+		stroke-width="9.919999"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M1022.08,674.09L419.65,673.33L490.39,406.25L504.59,406.25L581.77,673.63L698.51,673.54L585.40,327.16L426.19,327.16L241.23,906.09L359.53,906.09L404.38,752.60L1046.42,751.65z"/> 
+
+	<text 
+		font-size="111.72656"
+		font-family="aclonica"
+		fill="#00030A"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+		font-weight="bold"
+  		font-style="italic"
+  		transform="rotate(-0.0 786.8845 842.63873) scale(0.62231135 1.0)" >
+
+		<tspan x="1005.8427" y="885.40924">PROJECT</tspan>
+	</text>
+</svg>
