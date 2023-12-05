@@ -9,16 +9,6 @@
 	enable-background="new 0 0 1240.0 1240.0"
 	xml:space="preserve">
 	<path
-		fill="#653B00"
-		stroke="#000000"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.0"
-		stroke-linejoin="miter"
-		stroke-linecap="square"
-		d="M0.00,0.00L1240.00,0.00L1240.00,1240.00L0.00,1240.00z"/>
-	<path
 		fill="#F0F0F0"
 		stroke="#000000"
 		fill-opacity="1.000"
