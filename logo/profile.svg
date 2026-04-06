@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg
-	version="1.1"
-	xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
-	x="0%" y="0%"
-	width="100%" height="100%"
-	viewBox="0 0 32.0 32.0"
-	enable-background="new 0 0 32.0 32.0"
-	xml:space="preserve">
+	version="1.1" viewBox="0 0 32 32" xml:space="preserve">
 	<path
 		fill="#1C1C1C"
 		stroke="#4D1800"
-		fill-opacity="0.992"
+		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
 		stroke-width="2.016"
@@ -21,7 +15,7 @@
 	<path
 		fill="#2A2A2A"
 		stroke="#4D1800"
-		fill-opacity="0.992"
+		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
 		stroke-width="2.016"
@@ -29,8 +23,8 @@
 		stroke-linecap="square"
 		d="M4.10,18.24L1.19,7.83L31.26,7.82L27.65,17.63L4.10,18.24z"/>
 	<path
-		fill="#FFE9BA"
-		stroke="#00210C"
+		fill="#ffe9ba"
+		stroke="#00210c"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -41,16 +35,11 @@
 	<path
 		fill="#FFFFFF"
 		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
 		stroke-width="0.083742596"
-		stroke-linejoin="round"
-		stroke-linecap="square"
 		d="M10.96,16.19C10.68,7.84,15.09,6.34,14.86,16.19Q12.92,15.15,10.96,16.19z"/>
 	<path
-		fill="#210A00"
-		stroke="#00210C"
+		fill="#210a00"
+		stroke="#00210c"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -59,113 +48,40 @@
 		stroke-linecap="square"
 		d="M12.97,11.25C13.52,11.25,13.96,12.12,13.96,13.19C13.96,14.26,13.52,15.13,12.97,15.13C12.42,15.13,11.97,14.26,11.97,13.19C11.97,12.12,12.42,11.25,12.97,11.25z"/>
 	<path
-		fill="#FFFFFF"
-		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.0"
+		fill-opacity="0.000"
+		stroke="#00210c"
+		stroke-width="0.3268863"
 		stroke-linejoin="round"
 		stroke-linecap="square"
-		d="M12.59,11.17C12.83,11.17,13.03,11.62,13.03,12.18C13.03,12.75,12.83,13.20,12.59,13.20C12.35,13.20,12.16,12.75,12.16,12.18C12.16,11.62,12.35,11.17,12.59,11.17z"/>
+		d="M8.90,17.10Q9.53,18.81,8.11,19.11 M21.31,18.73Q13.93,21.72,9.23,18.64 M22.37,19.33Q21.17,18.89,21.52,17.46"/>
 	<path
 		fill="#FFFFFF"
 		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.08374258"
-		stroke-linejoin="round"
-		stroke-linecap="square"
+		stroke-width="0.083742596"
 		d="M16.14,16.22C15.86,7.86,20.27,6.36,20.04,16.22Q18.10,15.18,16.14,16.22z"/>
 	<path
-		fill="#210A00"
-		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.0"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M18.15,11.28C18.70,11.28,19.15,12.14,19.15,13.22C19.15,14.29,18.70,15.15,18.15,15.15C17.60,15.15,17.15,14.29,17.15,13.22C17.15,12.14,17.60,11.28,18.15,11.28z"/>
+		fill="#210a00"
+		d="M18.15,11.28C18.70,11.28,19.15,12.14,19.15,13.22C19.15,14.29,18.70,15.15,18.15,15.15C17.60,15.15,17.15,14.29,17.15,13.22C17.15,12.14,17.60,11.28,18.15,11.28z M9.13,8.72C9.94,9.40,10.75,10.07,11.66,10.66C12.57,11.24,13.58,11.73,14.19,11.91C14.79,12.09,14.99,11.95,15.85,11.55C16.71,11.15,18.22,10.49,19.10,10.30C19.98,10.10,20.22,10.39,20.55,10.78C20.87,11.17,21.28,11.68,21.91,12.48C22.54,13.28,23.40,14.38,23.61,13.79C23.82,13.19,23.39,10.89,22.95,8.59"/>
 	<path
 		fill="#FFFFFF"
-		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.0"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M17.77,11.19C18.01,11.19,18.21,11.65,18.21,12.21C18.21,12.77,18.01,13.23,17.77,13.23C17.53,13.23,17.34,12.77,17.34,12.21C17.34,11.65,17.53,11.19,17.77,11.19z"/>
+		d="M12.59,11.19C12.83,11.17,13.03,11.62,13.03,12.18C13.03,12.75,12.83,13.20,12.59,13.20C12.35,13.20,12.16,12.75,12.16,12.18C12.16,11.62,12.35,11.17,12.59,11.17z M17.77,11.19C18.01,11.19,18.21,11.65,18.21,12.21C18.21,12.77,18.01,13.23,17.77,13.23C17.53,13.23,17.34,12.77,17.34,12.21C17.34,11.65,17.53,11.19,17.77,11.19z"/>
 	<path
-		fill="#FFFFFF"
-		stroke="#00210C"
+		stroke="#00210c"
 		fill-opacity="0.000"
-		stroke-opacity="1.000"
 		fill-rule="nonzero"
-		stroke-width="0.3268863"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M8.90,17.10Q9.53,18.81,8.11,19.11"/>
-	<path
-		fill="#FFFFFF"
-		stroke="#00210C"
-		fill-opacity="0.000"
 		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.3268863"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M21.31,18.73Q13.93,21.72,9.23,18.64"/>
-	<path
-		fill="#FFFFFF"
-		stroke="#00210C"
-		fill-opacity="0.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.3268863"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M22.37,19.33Q21.17,18.89,21.52,17.46"/>
-	<path
-		fill="#210A00"
-		stroke="#00210C"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="0.0"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M9.13,8.72C9.94,9.40,10.75,10.07,11.66,10.66C12.57,11.24,13.58,11.73,14.19,11.91C14.79,12.09,14.99,11.95,15.85,11.55C16.71,11.15,18.22,10.49,19.10,10.30C19.98,10.10,20.22,10.39,20.55,10.78C20.87,11.17,21.28,11.68,21.91,12.48C22.54,13.28,23.40,14.38,23.61,13.79C23.82,13.19,23.39,10.89,22.95,8.59"/>
-	<path
-		fill="#712200"
-		stroke="#4D1800"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="2.016"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M4.62,1.60L1.30,8.00L31.26,7.82L28.17,2.21L4.62,1.60z"/>
-	<path
-		fill="#712200"
-		stroke="#4D1800"
-		fill-opacity="1.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
-		stroke-width="2.016"
-		stroke-linejoin="round"
-		stroke-linecap="square"
-		d="M4.73,30.93L2.67,22.85L29.40,22.31L27.96,29.87L4.73,30.93z"/>
-	<path
-		fill="#210A00"
-		stroke="#00210C"
-		fill-opacity="0.000"
-		stroke-opacity="1.000"
-		fill-rule="nonzero"
 		stroke-width="0.30225995"
 		stroke-linejoin="round"
 		stroke-linecap="square"
 		d="M14.25,16.62A0.52 0.50 184.42 1 0 14.72,17.19A1.04 1.13 137.84 1 0 16.17,17.31A0.52 0.50 175.58 1 0 16.64,16.73"/>
+	<path
+		fill="#712200"
+		stroke="#4d1800"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.016"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M4.62,1.60L1.30,8.00L31.26,7.82L28.17,2.21L4.62,1.60z M4.73,30.93L2.67,22.85L29.40,22.31L27.96,29.87L4.73,30.93z"/>
 </svg>
