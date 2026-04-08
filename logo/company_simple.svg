@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1" viewBox="0 0 32 32"	xml:space="preserve">
+	<path
+		fill="#fff"
+		stroke="#000"
+		stroke-width="0.7"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M14.83,1.63L2.52,30.26L9.67,30.37L17.00,12.34L17.38,30.37L24.26,30.37L21.18,1.65z M22.50,14.06Q27.69,7.79,20.88,1.65C32.84,1.09,31.04,16.58,23.33,21.37z"/>
+	<path
+		fill="#000"
+		fill-opacity="0.2"
+		d="M23.03,17.69Q32.01,9.05,22.13,2.00C32.83,2.63,29.72,17.87,23.33,20.95z M19.18,5.11L20.99,2.04L24.04,30.40L17.50,30.37L20.34,27.76z M17.00,11.95L19.18,5.11L17.00,5.11L7.45,26.86L2.91,29.96L9.62,30.37z"/>
+	<path
+		fill="#fff"
+		stroke="#000"
+		stroke-width="0.7"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.15,22.36Q10.00,19.97,4.81,9.64Q11.42,15.52,17.09,15.74z"/>
+	<path
+		fill="#000"
+		fill-opacity="0.2"
+		d="M17.15,22.36Q10.00,19.65,5.91,11.13Q11.57,17.86,17.15,19.30z"/>
+</svg>

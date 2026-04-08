@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1"	viewBox="0 0 32 32" xml:space="preserve">
+	<path
+		fill="#a1a1a1"
+		stroke="#000000"
+		stroke-opacity="0.5"
+		fill-rule="nonzero"
+		stroke-width="0.1"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M12.08,0.84L19.92,0.84A11.12 11.12 0 0 1 31.04,11.97L31.04,20.03A11.12 11.12 0 0 1 19.92,31.16L12.08,31.16A11.12 11.12 0 0 1 0.96,20.03L0.96,11.97A11.12 11.12 0 0 1 12.08,0.84z"/>
+	<path
+		fill="#bababa"
+		d="M16.53,0.85Q21.18,0.67,22.70,1.21L30.71,9.15Q31.17,10.75,31.04,15.30z M14.57,0.85L16.12,0.85L31.04,15.68L31.04,16.87z"/>
+</svg>
